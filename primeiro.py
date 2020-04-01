@@ -1,7 +1,7 @@
 
 # comentário
 i = 0
-while i < 8:
+while i < 16:
     print("ola")
     i += 1
 
